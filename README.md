@@ -21,11 +21,11 @@ Soy un estudiante de ingeniería mecatrónica apasionado por la **automatizació
 ---
 
 ## 📈 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelCruz72&show_icons=true&theme=radical)
 
 ---
 
-📫 **Contáctame en**: [LinkedIn](https://www.linkedin.com/in/tu-perfil) | [Email](mailto:tuemail@example.com)
+📫 **Contáctame en**: [LinkedIn](https://www.linkedin.com/in/samuel-cruz-543299313/) | [Email](sacruzs@unal.edu.co)
 
 <!--
 **SamuelCruz72/SamuelCruz72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

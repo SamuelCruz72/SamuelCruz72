@@ -1,4 +1,14 @@
-## Hi there 👋
+Soy un estudiante de ingeniería mecatrónica apasionado por la **automatización**, el **IoT**, la **robótica** y la **IA aplicada**.  
+
+---
+
+## 🚀 Tecnologías y herramientas
+- ⚡ Python | ROS2 | MATLAB
+- 🤖 ESP32 | Arduino | Dynamixel
+- 📊 Machine Learning | Deep Learning
+- 🛠️ Git | Docker | Linux
+
+---
 
 <!--
 **SamuelCruz72/SamuelCruz72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

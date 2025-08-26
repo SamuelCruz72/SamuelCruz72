@@ -13,10 +13,10 @@ Soy un estudiante de ingeniería mecatrónica apasionado por la **automatizació
 ---
 
 ## 📌 Proyectos destacados
-- [Sistema de Prevención de Manejo en Estado de Embriaguez](https://github.com/usuario/proyecto) – 
-- [Control de Aerobalancín con Hélice](https://github.com/usuario/proyecto) – 
-- [Sistema de Automatización de Mediciones con Pitot](https://github.com/usuario/proyecto) – 
-- [Manejo de Servomotores Dynamixel](https://github.com/usuario/proyecto) – 
+- [Sistema de Prevención de Manejo en Estado de Embriaguez](https://github.com/DavidN110/Laboratorio-Electronica-Digital-I-Grupo2/blob/main/Proyecto/Proyecto.md) – 
+- [Control de Aerobalancín con Hélice](https://github.com/SamuelCruz72/Control_Balancin) – 
+- [Sistema de Automatización de Mediciones con Pitot](https://github.com/SamuelCruz72/Sistema-de-automatizacion-Pitot) – 
+- [Manejo de Servomotores Dynamixel](https://github.com/isamendo17/Manejo-Servomotores-Dinamixel) – 
 
 ---
 

@@ -13,10 +13,10 @@ Soy un estudiante de ingeniería mecatrónica apasionado por la **automatizació
 ---
 
 ## 📌 Proyectos destacados
-- [Sistema de Prevención de Manejo en Estado de Embriaguez](https://github.com/DavidN110/Laboratorio-Electronica-Digital-I-Grupo2/blob/main/Proyecto/Proyecto.md) – 
-- [Control de Aerobalancín con Hélice](https://github.com/SamuelCruz72/Control_Balancin) – 
-- [Sistema de Automatización de Mediciones con Pitot](https://github.com/SamuelCruz72/Sistema-de-automatizacion-Pitot) – 
-- [Manejo de Servomotores Dynamixel](https://github.com/isamendo17/Manejo-Servomotores-Dinamixel) – 
+- 🚗🍷 [Sistema de Prevención de Manejo en Estado de Embriaguez](https://github.com/DavidN110/Laboratorio-Electronica-Digital-I-Grupo2/blob/main/Proyecto/Proyecto.md)
+- ⚙️🌀 [Control de Aerobalancín con Hélice](https://github.com/SamuelCruz72/Control_Balancin) 
+- 🌬️📏 [Sistema de Automatización de Mediciones con Pitot](https://github.com/SamuelCruz72/Sistema-de-automatizacion-Pitot) 
+- ⚡🎛️ [Manejo de Servomotores Dynamixel](https://github.com/isamendo17/Manejo-Servomotores-Dinamixel)
 
 ---
 
@@ -25,6 +25,10 @@ Soy un estudiante de ingeniería mecatrónica apasionado por la **automatizació
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCruz72&layout=compact&theme=radical)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 

@@ -22,6 +22,9 @@ Soy un estudiante de ingeniería mecatrónica apasionado por la **automatizació
 
 ## 📈 Estadísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelCruz72&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCruz72&layout=compact&theme=radical)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 

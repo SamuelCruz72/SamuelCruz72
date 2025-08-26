@@ -32,7 +32,7 @@ Soy un estudiante de ingeniería mecatrónica apasionado por la **automatizació
 
 ---
 
-📫 **Contáctame en**: [LinkedIn](https://www.linkedin.com/in/samuel-cruz-543299313/) | [Email](sacruzs@unal.edu.co)
+📫 **Contáctame en**: [LinkedIn](https://www.linkedin.com/in/samuel-cruz-543299313/) | [Email](mailto:sacruzs@unal.edu.co)
 
 <!--
 **SamuelCruz72/SamuelCruz72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
